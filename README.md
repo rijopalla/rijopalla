@@ -3,7 +3,7 @@
 
 
 
-<h2> Links </h2>
+<h2> :globe_with_meridians: Links </h2>
 <div id="badges">
   <a href="https://www.linkedin.com/in/rijopalla/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
