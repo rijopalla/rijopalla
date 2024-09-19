@@ -40,6 +40,10 @@
     <img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD"/>
     <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
   </div>
+
+  <div>
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rijopalla&theme=tokyonight)
+  </div>
 </div>
 
 <div id="socials"> 
