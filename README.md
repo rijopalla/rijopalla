@@ -42,7 +42,7 @@
   </div>
 
   <div>
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rijopalla&theme=tokyonight)
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rijopalla&theme=tokyonight"/>
   </div>
 </div>
 
