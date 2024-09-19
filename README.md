@@ -1,4 +1,4 @@
-<h1 align="center">Hello world! I'm Rijan Opalla</h1>
+<h1 align="center">Hello world! I'm Rijan Opalla  :wave: </h1>
 <h3 align="center">I am currently a graduating BS CS-ST student from De La Salle University-Manila</h3>
 
 
