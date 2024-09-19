@@ -1,22 +1,6 @@
 <h1 align="center">Hello world! I'm Rijan Opalla  :wave: </h1>
 <h3 align="center">I am currently a graduating BS CS-ST student from De La Salle University-Manila</h3>
 
-
-<div id="socials"> 
-  <h2> :globe_with_meridians: Links </h2>
-  <div id="badges">
-      <a href="https://www.linkedin.com/in/rijopalla/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn   
-        Badge"/>
-      </a>
-      <a href="https://www.facebook.com/rij.opalla/">
-        <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" a 
-        lt="Facebook Badge"/>
-      </a>
-  </div>
-</div>
-
-
 <div id="languages"> 
   <h2> :wrench: Languages and Tools </h2>
   <p> Here are some of the languages, software, or other tools I have experience with: </p>
@@ -57,5 +41,23 @@
     <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
   </div>
 </div>
+
+<div id="socials"> 
+  <h2> :globe_with_meridians: Links </h2>
+  <p>Get in touch with my socials here:</p>
+  <div id="badges">
+      <a href="https://www.linkedin.com/in/rijopalla/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn   
+        Badge"/>
+      </a>
+      <a href="https://www.facebook.com/rij.opalla/">
+        <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" a 
+        lt="Facebook Badge"/>
+      </a>
+  </div>
+</div>
+
+
+
 
 
