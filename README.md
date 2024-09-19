@@ -41,7 +41,8 @@
     <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
   </div>
 
-  <div>
+  <div id="stats">
+    <h3>:chart_with_upwards_trend: Stats </h3>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rijopalla&theme=tokyonight"/>
   </div>
 </div>
